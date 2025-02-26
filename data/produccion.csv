@@ -1,9 +1,57 @@
-País,laboratorio_coca,cat_coca,laboratorio_opio,cat_opio,laboratorio_meta,cat_meta
-Bolivia,3446.0,Alta,,Sin dato,,Sin dato
-China,,Sin dato,,Sin dato,479.0,Alta
-Colombia,24514.0,Alta,,Sin dato,,Sin dato
-Estados Unidos,,Sin dato,,Sin dato,2806.0,Alta
-Grecia,,Sin dato,22.0,Alta,,Sin dato
-Malasia,,Sin dato,40.0,Alta,,Sin dato
-Peru,2202.0,Alta,,Sin dato,,Sin dato
-República Checa,,Sin dato,19.0,Alta,1021.0,Alta
+País,Cocaína,Categoría_Cocaína,Opioides,Categoría_Opioides,Metanfetaminas,Categoría_Metanfetaminas
+Alemania,1.0,MUY BAJA,1.0,MUY BAJA,38.0,ALTA
+Argentina,287.0,ALTA,1.0,MUY BAJA,4.0,BAJA
+Australia,10.0,BAJA,6.0,BAJA,308.0,ALTA
+Austria,,,,,23.0,MEDIA
+Belgica,22.0,MEDIA,2.0,MUY BAJA,,
+Bielorrusia,,,,,3.0,BAJA
+Bolivia,3446.0,ALTA,,,,
+Brasil,9.0,BAJA,,,,
+Bulgaria,,,,,3.0,BAJA
+Bélgica,,,,,22.0,MEDIA
+Canada,,,3.0,BAJA,26.0,MEDIA
+Chequia,,,19.0,ALTA,1021.0,ALTA
+Chile,147.0,ALTA,,,,
+China,73.0,ALTA,19.0,ALTA,479.0,ALTA
+Chipre,,,,,1.0,MUY BAJA
+Colombia,24514.0,ALTA,6.0,BAJA,,
+Costa de marfil,1.0,MUY BAJA,,,,
+Ecuador,11.0,BAJA,,,,
+Eslovaquia,,,,,32.0,MEDIA
+Eslovenia,,,,,1.0,MUY BAJA
+España,46.0,MEDIA,2.0,MUY BAJA,6.0,BAJA
+Estados Unidos,,,9.0,MEDIA,2806.0,ALTA
+Estonia,,,1.0,MUY BAJA,,
+Federación Rusa,,,,,3.0,BAJA
+Filipinas,,,,,9.0,MEDIA
+Francia,,,10.0,MEDIA,5.0,BAJA
+Grecia,12.0,BAJA,22.0,ALTA,3.0,BAJA
+Guatemala,13.0,MEDIA,,,,
+Honduras,51.0,MEDIA,,,,
+Hungría,,,,,2.0,MUY BAJA
+India,,,14.0,MEDIA,1.0,MUY BAJA
+Indonesia,,,,,16.0,MEDIA
+Irlanda,,,,,1.0,MUY BAJA
+Italia,,,,,1.0,MUY BAJA
+Lituania,,,,,2.0,MUY BAJA
+Malasia,,,,,25.0,MEDIA
+Malaysia,,,40.0,ALTA,,
+Mexico,1.0,MUY BAJA,14.0,MEDIA,191.0,ALTA
+Mozambique,,,,,1.0,MUY BAJA
+Myanmar,,,8.0,BAJA,6.0,BAJA
+New Zealand,,,,,297.0,ALTA
+Nigeria,,,,,8.0,BAJA
+Nueva Zelandia,,,10.0,MEDIA,,
+Panama,1.0,MUY BAJA,,,,
+Paraguay,12.0,BAJA,,,,
+Países Bajos,42.0,MEDIA,5.0,BAJA,62.0,ALTA
+Peru,2202.0,ALTA,,,,
+Polonia,1.0,MUY BAJA,,,48.0,ALTA
+Portugal,,,,,2.0,MUY BAJA
+Rumania,1.0,MUY BAJA,,,,
+Senegal,1.0,MUY BAJA,,,,
+Sudafrica,1.0,MUY BAJA,,,,
+Sudáfrica,,,,,20.0,MEDIA
+Suecia,2.0,BAJA,,,2.0,MUY BAJA
+Ucrania,,,,,14.0,MEDIA
+Venezuela,271.0,ALTA,,,,
